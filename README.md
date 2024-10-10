@@ -4,6 +4,6 @@ Trabalho de Mobile - 4°bimestre
 ## Integrantes
 
 - Amanda Meneghin Pavarini
-- Gabriel Toledo
+- Gabriel Toledo Duarte
 
 # Wikis
